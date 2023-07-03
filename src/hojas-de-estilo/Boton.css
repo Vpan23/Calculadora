@@ -10,19 +10,19 @@
     color: white;
     border-radius: 25px;
     border: 2px solid white;
-    cursor: pointer;
     margin: 4px;
+    cursor: pointer;
     user-select: none;
-}
-
-.boton-contenedor:hover {
+  }
+  
+  .boton-contenedor:hover {
     background-color: #5a01a7;
-}
-
-.operador {
+  }
+  
+  .operador {
     background-color: #00471b;
-}
-
-.operador:hover {
+  }
+  
+  .operador:hover {
     background-color: #ff6600;
-}
+  }
